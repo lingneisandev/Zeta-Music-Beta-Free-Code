@@ -1,4 +1,4 @@
-# 🎵 TitanX Music Bot
+# 🎵 Zeta Music V1.0.2.0 Lates
 
 A powerful, feature-rich Discord music bot built with Discord.js v14, featuring high-quality audio streaming, 20+ audio filters, web dashboard, and support for multiple music platforms.
 
@@ -60,7 +60,7 @@ A powerful, feature-rich Discord music bot built with Discord.js v14, featuring 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/titanxdevz/Music-Bot.git
+   git clone https://github.com/lingneisandev/Zeta-Music-Free-Code.git
    cd Music-Bot
    ```
 
@@ -236,7 +236,7 @@ Music-Bot/
 ### Custom Prefix
 
 1. Use `?prefix <new_prefix>` to change prefix
-2. Example: `?prefix !` changes prefix to `!`
+2. Example: `?prefix !` changes prefix to `z!`
 3. Prefix is per-server
 
 ## 📝 Requirements
@@ -250,7 +250,7 @@ Music-Bot/
 
 ## 🤝 Support
 
-- **Discord Server**: [Join our support server](https://discord.gg/RPuK3n8YBT)
+- **Discord Server**: [Join our support server](https://discord.gg/VMbqMG7nUq)
 - **Issues**: [GitHub Issues](https://github.com/titanxdevz/Music-Bot/issues)
 
 ## 📄 License
@@ -260,6 +260,10 @@ This project is licensed under the ISC License.
 ## 👨‍💻 Author
 
 **Titandevz**
+
+## ⚙️ Modifed
+
+**lingneisandev**
 
 ## 🙏 Acknowledgments
 
@@ -277,5 +281,5 @@ This project is licensed under the ISC License.
 
 ---
 
-**Made with ❤️ by Titandevz**
+**Made with ❤️ by Titandevz and Beta tester by Hololive Helper Development**
 
