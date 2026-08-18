@@ -121,41 +121,41 @@ A powerful, feature-rich Discord music bot built with Discord.js v14, featuring 
 ### Basic Commands
 
 **Music Commands:**
-- `?play <song>` - Play a song or playlist
-- `?pause` - Pause the current track
-- `?resume` - Resume playback
-- `?skip` - Skip to the next song
-- `?stop` - Stop playback and clear queue
-- `?queue` - View the current queue
-- `?nowplaying` or `?np` - Show current track info
-- `?volume <1-200>` - Adjust volume
-- `?loop` - Toggle loop mode (off/queue/track)
-- `?shuffle` - Shuffle the queue
-- `?clear` - Clear the queue
+- `z!play <song>` - Play a song or playlist
+- `z!pause` - Pause the current track
+- `z!resume` - Resume playback
+- `z!skip` - Skip to the next song
+- `z!stop` - Stop playback and clear queue
+- `z!queue` - View the current queue
+- `z!nowplaying` or `?np` - Show current track info
+- `z!volume <1-200>` - Adjust volume
+- `z!loop` - Toggle loop mode (off/queue/track)
+- `z!shuffle` - Shuffle the queue
+- `z!clear` - Clear the queue
 
 **Filter Commands:**
-- `?bassboost` - Apply bass boost filter
-- `?nightcore` - Apply nightcore effect
-- `?daycore` - Apply slowed + reverb effect
-- `?8d` - Apply 8D audio effect
-- `?reset` - Remove all filters
-- `?3d` - Apply 3D audio effect
-- `?space` - Apply space effect
-- `?underwater` - Apply underwater effect
+- `z!bassboost` - Apply bass boost filter
+- `z!nightcore` - Apply nightcore effect
+- `z!daycore` - Apply slowed + reverb effect
+- `z!8d` - Apply 8D audio effect
+- `z!reset` - Remove all filters
+- `z!3d` - Apply 3D audio effect
+- `z!space` - Apply space effect
+- `z!underwater` - Apply underwater effect
 - And many more...
 
 **Configuration Commands:**
-- `?prefix <new_prefix>` - Change bot prefix
-- `?djrole <role>` - Set DJ role
-- `?247` - Toggle 24/7 mode
-- `?ignore <channel>` - Ignore a channel
+- `z!prefix <new_prefix>` - Change bot prefix
+- `z!djrole <role>` - Set DJ role
+- `z!247` - Toggle 24/7 mode
+- `z!ignore <channel>` - Ignore a channel
 
 **Info Commands:**
-- `?help` - Show all commands
-- `?ping` - Check bot latency
-- `?stats` - View bot statistics
-- `?serverinfo` - Get server information
-- `?userinfo [user]` - Get user information
+- `z!help` - Show all commands
+- `z!ping` - Check bot latency
+- `z!stats` - View bot statistics
+- `z!serverinfo` - Get server information
+- `z!userinfo [user]` - Get user information
 
 ### Command Categories
 
@@ -224,19 +224,19 @@ Music-Bot/
 ### Setting Up DJ Role
 
 1. Create a role in your Discord server
-2. Use `?djrole @role` to set it
+2. Use `z!djrole @role` to set it
 3. Users with this role can control music
 
 ### Enabling 24/7 Mode
 
-1. Use `?247` command
+1. Use `z!247` command
 2. Bot will stay in voice channel 24/7
 3. Music will continue playing even if everyone leaves
 
 ### Custom Prefix
 
-1. Use `?prefix <new_prefix>` to change prefix
-2. Example: `?prefix !` changes prefix to `z!`
+1. Use `z!prefix <new_prefix>` to change prefix
+2. Example: `z!prefix !` changes prefix to `!`
 3. Prefix is per-server
 
 ## 📝 Requirements
