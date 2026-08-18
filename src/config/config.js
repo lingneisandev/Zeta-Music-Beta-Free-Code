@@ -1,9 +1,9 @@
 module.exports = {
   token: process.env.token || process.env.DISCORD_TOKEN || "",
-  prefix: "?",
+  prefix: "z!",
   color: "#2b2d31",
   Mongo: process.env.MONGO_URI || process.env.Mongo || "",
-  ownerIDS: ["1383706658315960330"],
+  ownerIDS: ["859051097820889098"],
   // Dashboard Configuration
   clientId: process.env.CLIENT_ID || "1438085532809822311",
   clientSecret: process.env.CLIENT_SECRET || "",
@@ -28,10 +28,10 @@ module.exports = {
   spotiSecret: process.env.SPOTIFY_SECRET || "",
   nodes: [
     {
-      name: 'Titan X Dev',
-      url: process.env.LAVALINK_URL || 'lavalink.jirayu.net:13592',
-      auth: process.env.LAVALINK_PASSWORD || 'youshallnotpass', 
-      secure: process.env.LAVALINK_SECURE === 'true' || false,
+      name: 'Zeta Music V1.2.0 Lates',
+      url: process.env.LAVALINK_URL || 'lavalinkv4.serenetia.com:443',
+      auth: process.env.LAVALINK_PASSWORD || 'https://dsc.gg/ajidevserver', 
+      secure: process.env.LAVALINK_SECURE === 'true' || true,
     },
   ],
 };
