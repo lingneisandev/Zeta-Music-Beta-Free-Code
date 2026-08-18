@@ -126,8 +126,8 @@ app.get('/', async (req, res) => {
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>TitanXMusic - Premium Discord Music Bot | High Quality Audio & 24/7 Uptime</title>
-        <meta name="description" content="TitanXMusic is the ultimate Discord music bot with high-quality audio, 24/7 uptime, and advanced features. Join thousands of servers enjoying crystal clear music.">
+        <title>Zeta Music - Premium Discord Music Bot | High Quality Audio & 24/7 Uptime</title>
+        <meta name="description" content="Zeta Music is the ultimate Discord music bot with high-quality audio, 24/7 uptime, and advanced features. Join thousands of servers enjoying crystal clear music.">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
@@ -984,7 +984,7 @@ app.get('/', async (req, res) => {
               `}
               <a href="${config.invite}" target="_blank" class="btn btn-outline" style="padding: 18px 40px; font-size: 18px;">
                 <i class="fas fa-plus"></i>
-                Invite TitanXMusic
+                Invite Zeta Music
               </a>
             </div>
             
@@ -1264,11 +1264,11 @@ app.get('/', async (req, res) => {
           <div class="faq-container">
             <div class="faq-item" onclick="toggleFaq(this)">
               <div class="faq-question">
-                How do I add TitanXMusic to my server?
+                How do I add Zeta Music to my server?
                 <i class="fas fa-chevron-down faq-icon"></i>
               </div>
               <div class="faq-answer">
-                Click the "Add to Discord" button, select your server, and authorize the required permissions. TitanXMusic will be ready to use immediately!
+                Click the "Add to Discord" button, select your server, and authorize the required permissions. Zeta Music will be ready to use immediately!
               </div>
             </div>
             
@@ -1278,7 +1278,7 @@ app.get('/', async (req, res) => {
                 <i class="fas fa-chevron-down faq-icon"></i>
               </div>
               <div class="faq-answer">
-                Yes! TitanXMusic is completely free with all features available. We offer premium features for enhanced experience, but the core functionality is free forever.
+                Yes! Zeta Music is completely free with all features available. We offer premium features for enhanced experience, but the core functionality is free forever.
               </div>
             </div>
             
@@ -1288,7 +1288,7 @@ app.get('/', async (req, res) => {
                 <i class="fas fa-chevron-down faq-icon"></i>
               </div>
               <div class="faq-answer">
-                TitanXMusic supports YouTube, Spotify, SoundCloud, Apple Music, Deezer, and direct links. You can play music from any of these platforms seamlessly.
+                Zeta Music supports YouTube, Spotify, SoundCloud, Apple Music, Deezer, and direct links. You can play music from any of these platforms seamlessly.
               </div>
             </div>
             
@@ -1380,7 +1380,7 @@ app.get('/', async (req, res) => {
           </div>
           
           <div class="footer-bottom">
-            <p>&copy; 2025 TitanXMusic. All rights reserved. Made with <i class="fas fa-heart" style="color: #ef4444;"></i> for Discord communities.</p>
+            <p>&copy; 2026 Zeta Music. All rights reserved. Made with <i class="fas fa-heart" style="color: #ef4444;"></i> for Discord communities.</p>
           </div>
         </footer>
         
@@ -3128,7 +3128,7 @@ app.get('/dashboard', isAuthenticated, async (req, res) => {
                   <span class="overview-kicker">Welcome back</span>
                   <h1>Control every beat your community hears.</h1>
                   <p class="overview-description">
-                    TitanXMusic keeps your Discord servers locked into the perfect rhythm. Queue bangers, tweak audio, and manage sessions effortlessly—from anywhere in the world.
+                    Zeta Music keeps your Discord servers locked into the perfect rhythm. Queue bangers, tweak audio, and manage sessions effortlessly—from anywhere in the world.
                   </p>
                   <div class="overview-actions">
                     <button class="btn btn-gradient" onclick="showSection('servers')">
